@@ -4,3 +4,7 @@
 
 const arr = ["eyes", "nose", "lips", "ears"]
 var [/* Create variable lips here and assign it to arr[2] */] = arr
+
+//The purpose of ES6's destructuring assignment is to index an arrays -
+//items on one line '[]' instead of having to declare variables for each-
+//array element.
