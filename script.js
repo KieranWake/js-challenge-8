@@ -10,3 +10,4 @@
 //The purpose of ES6's destructuring assignment is to index an arrays -
 //items on one line '[]' instead of having to declare variables for each-
 //array element.
+//You can use blanks to skip over unwanted values.
